@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #FFCC79;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: white;
+}
+
+#contenedor{
+	position: absolute;
+	width: 1000px;
+	height: 900px;
+	margin-left: 10px;
+	margin-top: 10px;
+	background-color: #69B3E9;
+}
+
+#header{
+	position: absolute;
+	width: 500px;
+	height:140px;
+	margin-top: 60px;
+	margin-left: 250px;
+	background-color: #E0595C;
+}
+
+#quienes{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-color: #F7C55A;
+}
+
+#galeria{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	margin-top: 20px;
+	margin-left: 140px;
+	background-color: #F7C55A;
+}
+
+#destacados{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	margin-top: 20px;
+	margin-left: 260px;
+	background-color: #F7C55A;
+}
+
+#contacto{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	margin-top: 20px;
+	margin-left: 380px;
+	background-color: #F7C55A;
+	
+}
+
+#barraizquierda{
+	position: absolute;
+	width: 80px;
+	height: 400px;
+	margin-top: 220px;
+	margin-left: 250px;
+	background-color: #C57AEC;
+}
+
+#contenido{
+	position: absolute;
+	width: 300px;
+	height:400px;
+	margin-top: 220px;
+	margin-left: 350px;
+	background-color: #C57AEC;
+}
+
+#barraderecha{
+	position: absolute;
+	width: 80px;
+	height:400px;
+	margin-top: 220px;
+	margin-left: 670px;
+	background-color: #C57AEC;
+}
+
+#footer{
+	position: absolute;
+	width: 500px;
+	height: 140px;
+	margin-top: 640px;
+	margin-left: 250px;
+	background-color: #C57AEC;
+}

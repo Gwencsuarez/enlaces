@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+
+.flex-container {
+    display: flex;
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin: 10px;
+}
+
+.flex-item {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
+
+/* Flex-direction */
+.flex-direction-row {
+    flex-direction: row;
+}
+
+.flex-direction-column {
+    flex-direction: column;
+}
+
+.flex-direction-row-reverse {
+    flex-direction: row-reverse;
+}
+
+.flex-direction-column-reverse {
+    flex-direction: column-reverse;
+}
+
+/* Align-items */
+.align-items-flex-start {
+    align-items: flex-start;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.align-items-flex-end {
+    align-items: flex-end;
+}
+
+.align-items-stretch {
+    align-items: stretch;
+}
+
+/* Justify-content */
+.justify-content-flex-start {
+    justify-content: flex-start;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-content-flex-end {
+    justify-content: flex-end;
+}
+
+.justify-content-space-between {
+    justify-content: space-between;
+}
+
+.justify-content-space-around {
+    justify-content: space-around;
+}
+
+.justify-content-space-evenly {
+    justify-content: space-evenly;
+}
+
+/* Align-content */
+.align-content-flex-start {
+    align-content: flex-start;
+}
+
+.align-content-center {
+    align-content: center;
+}
+
+.align-content-flex-end {
+    align-content: flex-end;
+}
+
+.align-content-stretch {
+    align-content: stretch;
+}
+
+.align-content-space-between {
+    align-content: space-between;
+}
+
+.align-content-space-around {
+    align-content: space-around;
+}
+
+}
